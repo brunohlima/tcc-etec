@@ -21,8 +21,8 @@ Desenvolvemos um site educativo voltado para fornecer informações sobre tecnol
 
 - Bruno Henrique
 - Allan Souza
-- Gabriel
-- João
+- Gabriel Nascimento
+- João Brito
 
 Trabalhar neste projeto foi uma experiência enriquecedora, que proporcionou a aplicação prática dos conhecimentos adquiridos durante o curso. Agradeço aos meus colegas de equipe pela dedicação e aos professores da Etec Rodrigues de Abreu pelo suporte e orientação contínuos.
 
